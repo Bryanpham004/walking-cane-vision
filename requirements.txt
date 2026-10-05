@@ -1,0 +1,8 @@
+numpy<2
+opencv-python>=4.8
+pyserial>=3.5
+
+# Optional — install as needed for real hardware / model inference
+# onnxruntime>=1.16      # MobileNet-SSD obstacle detector
+# pyttsx3>=2.90          # offline spoken announcements
+# picamera2              # Raspberry Pi camera backend (apt: python3-picamera2)
